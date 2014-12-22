@@ -37,9 +37,49 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A treatise of vnion of the two realmes of England and Scotland. By I.H.Hayward, John, Sir, 1564?-162
+
+1. The Preface.
+
 #####Body#####
-A treatise of vnion of the two realmes of England and Scotland. By I.H.Hayward, John, Sir, 1564?-162
+
+1. CHAP. I. A commendation of Vnion in generall.
+
+1. CHAP. II. More particularly of the Vnion of the two Realmes of England
+and Scotland: and first of the vtilitie thereof.
+
+1. CHAP. III.Of the necessitie of this Vnion, and by what meanes it may
+be perfected.
+
+1. CHAP. IIII. Of the bodily Vnion, or Vnion by law.
+
+1. CHAP. V. Whether all change of Lawes be daungerous
+to a State.
+
+1. CHAP. VI. Of vnion of mindes or of loue.
+
+1. CHAP. VII. Of Equitie.
+
+1. CHAP. VIII. Of conformitie or similitude.
+
+1. CHAP. IX. Of conformitie in habite and behauiour.
+
+1. CHAP. X. Of conformitie in language.
+
+1. CHAP. XI. Of conformitie in name.
+
+1. CHAP. XII. What common name is most fit to comprehend the English
+and the Scots: and whether the like change of name
+hath been vsuall or no.
+
+1. CHAP. XIII. Of certaine obiections concerning matters of state inward,
+or matters of law.
+
+1. CHAP. XIIII. Of other obiections concerning matter of state forreine, or
+matter of entercourse.
+
+1. CHAP. XV. Of other obiections which concerne honour
+and reputation.
+
 **Types of content**
 
   * There are 18 **verse** lines!
